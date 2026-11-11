@@ -426,9 +426,9 @@ A quiet, fish-like robot is well suited to **marine environmental monitoring**, 
 
 ## 10. Team and acknowledgements
 
-Group 4 – *062322 Bioinspired Robotics*, Politecnico di Milano, A.Y. 2025/26.
+*062322 Bioinspired Robotics*, Politecnico di Milano, A.Y. 2025/26.
 
-> ✏️ *Add team members (names + GitHub/LinkedIn) and course instructors here.*
+> Christian Menini - Max Bucci - Fabio Caldironi - Giuseppe Crippa - Erwin Rafael Novicio - Luca Burini
 
 ---
 
