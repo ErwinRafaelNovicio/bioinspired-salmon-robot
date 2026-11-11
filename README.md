@@ -4,7 +4,7 @@
 
 **Design, kinematics and hydrodynamic simulation (Discrete Vortex Method) of a cable-driven, multi-link robotic fish inspired by *Salmo salar***
 
-*Course project for 062322 – Bioinspired Robotics · Politecnico di Milano · A.Y. 2025/26 · Group 4*
+*Course project for 062322 – Bioinspired Robotics · Politecnico di Milano · A.Y. 2025/26*
 
 <img src="docs/images/anim_hero_flythrough.gif" width="720" alt="Animated fly-through of the robotic salmon CAD model"/>
 
